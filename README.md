@@ -9,3 +9,10 @@ Trainers :
 3. Avaysu Bhatia
 4. Vinit Kadam
 5. Abhishek Surve
+
+
+# Introductions
+
+## Kashish
+
+Hi, I'm Kashish. I'm a Software Dev in the Spam team.
